@@ -1,4 +1,4 @@
-#Barraca do Beijo
+# Barraca do Beijo
 
 Esta aplicação serve para promover de maneira virtual a antiga brincadeira de festas de colegial "Barraca do Beijo".
 
