@@ -1,7 +1,5 @@
 # Barraca do Beijo
 
-![alt text](https://github.com/manbomb/Barraca-do-Beijo/blob/master/beijo.png)
-
 Esta aplicação serve para promover de maneira virtual a antiga brincadeira de festas de colegial "Barraca do Beijo".
 
 ## Como funciona ?
