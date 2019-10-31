@@ -3,6 +3,12 @@
 		<title>Barraca do Beijo - Perguntas</title>
 		<meta charset="utf-8">
 		<style>
+			body {
+				background-image: url('beijo.png');
+				background-size: 80% 100%;
+				background-position: center;
+				background-repeat: no-repeat;
+			}
 			* {
 				font-family: comic sans ms;
 				border-radius: 5px;
@@ -16,6 +22,7 @@
 				padding: 10%;
 				padding-top: 2%;
 				display: none;
+				background-color: rgba(255,255,255,0.5);
 			}
 			input[type=text] {
 				border: 1px solid black;
@@ -28,14 +35,25 @@
 				border: 1px solid black;
 				width: 50%;
 				height: 20%;
+				background-color: #FF7777;
+				transition: 0.1s;
 			}
 			#prox:active, #submit_btt:active {
-				background-color: lightblue;
+				background-color: #FF8888;
 			}
 			select {
 				width: 80%;
 				height: 10%;
 				margin: 5px;
+			}
+			#login {
+				position: absolute;
+				right: 20;
+				top: 10;
+			}
+			a {
+				text-decoration: none;
+				color: #FF7777
 			}
 		</style>
 		<script>
@@ -49,6 +67,9 @@
 		</script>
 	</head>
 	<body>
+		<div id='login'>
+			<a href="login.php">Login</a>
+		</div>
 		<center>
 			<form method="post" action="#" id="form_id">
 
