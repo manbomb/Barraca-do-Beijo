@@ -12,8 +12,9 @@ Esta aplicação serve para promover de maneira virtual a antiga brincadeira de 
 
 ## O que precisa ser feito ?
 
-- [ ] Criar database em MySql
+- [x] Criar database em MySql
 - [x] Criar tela de login admin
 - [x] Criar sistema de geração e validação de códigos
 - [ ] Criar perguntas e respostas (*** que sejam interessantes do ponto de vista estatísticos, para que funcionem)
-- [ ] Criar tela de cadastro de respostas 
+- [x] Criar tela de cadastro de respostas 
+- [ ] Criar página de Match
