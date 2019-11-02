@@ -18,3 +18,4 @@ Esta aplicação serve para promover de maneira virtual a antiga brincadeira de 
 - [ ] Criar perguntas e respostas (*** que sejam interessantes do ponto de vista estatísticos, para que funcionem)
 - [x] Criar tela de cadastro de respostas 
 - [x] Criar página e função de Match **
+- [ ] Permitir impressão da página de Match pronta
