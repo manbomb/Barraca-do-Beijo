@@ -81,59 +81,59 @@
 				<input type="button" name="prox" id="prox" onclick="proxima(1)" value="Próxima">
 			</div>
 			<div id="pergunta_2" class="div_perg">
-				<h2>Perguntas...</h2>
+				<h2>10 Perguntas...</h2>
 				<p>Qual das opções você acha que mais combina com você ?</p>
 				1: <select name="p1">
-					<option value="1">Sou do sexo MASCULINO</option>
-					<option value="2">Sou do sexo FEMININO</option>
+					<option value="1">a) Sou do sexo MASCULINO</option>
+					<option value="2">b) Sou do sexo FEMININO</option>
 				</select><br>
 				2: <select name="p2">
-					<option value="1">Procuro alguém do sexo MASCULINO</option>
-					<option value="2">Procuro alguém do sexo FEMININO</option>
+					<option value="1">a) Procuro alguém do sexo MASCULINO</option>
+					<option value="2">b) Procuro alguém do sexo FEMININO</option>
 				</select><br>
 				3: <select name="p3">
-					<option value="1">Resposta a</option>
-					<option value="2">Resposta b</option>
-					<option value="3">Resposta c</option>
-					<option value="4">Resposta d</option>
-					<option value="5">Resposta e</option>
+					<option value="1">a) Gosto de ficar em casa curtindo um netflix e junto com meus bichinhos.</option>
+					<option value="2">b) Gosto de ficar em casa, porém não muito, fico entediado fácil.</option>
+					<option value="3">c) Não sei se gosto ou não de ficar em casa, sou meio indeciso quanto a isso.</option>
+					<option value="4">d) Prefiro sair do que ficar em casa , FATO!</option>
+					<option value="5">e) Odeio ficar em casa, adoro sair para os rolês e a pior parte é quando acabam.</option>
 				</select><br>
 				4: <select name="p4">
-					<option value="1">Resposta a</option>
-					<option value="2">Resposta b</option>
-					<option value="3">Resposta c</option>
-					<option value="4">Resposta d</option>
-					<option value="5">Resposta e</option>
+					<option value="1">a) Eu amo um único estilo de música.</option>
+					<option value="2">b) Gosto de uns dois ou três estilos musicais.</option>
+					<option value="3">c) Na real que eu gosto de vários estilos.</option>
+					<option value="4">d) Ouço de tudo, mas não me apego a nenhum estilo.</option>
+					<option value="5">e) Não gosto muito de música.</option>
 				</select><br>
 				5: <select name="p5">
-					<option value="1">Resposta a</option>
-					<option value="2">Resposta b</option>
-					<option value="3">Resposta c</option>
-					<option value="4">Resposta d</option>
-					<option value="5">Resposta e</option>
+					<option value="1">a) Me considero uma pessoa política, engajada em discussões e com posicionamento definido.</option>
+					<option value="2">b) Gosto de discussões políticas, porém, ainda não formei um posicionamento próprio.</option>
+					<option value="3">c) Não curto falar de política, quando tem discussão, só me calo.</option>
+					<option value="4">d) Não gosto de discussões políticas. Eu não me meto nisso.</option>
+					<option value="5">e) Política não se discute.</option>
 				</select><br>
 				<input type="button" name="prox" id="prox" onclick="proxima(2)" value="Deu!">
 			</div>
 			<div id="pergunta_3" class="div_perg">
-				<h2>Perguntas...</h2>
+				<h2>10 Perguntas...</h2>
 				<p>Qual das opções você acha que mais combina com você ?</p>
 				6: <select name="p6">
-					<option value="1">Resposta a</option>
-					<option value="2">Resposta b</option>
-					<option value="3">Resposta c</option>
-					<option value="4">Resposta d</option>
-					<option value="5">Resposta e</option>
+					<option value="1">a) Me estresso com facilidade, tenho o estopim curto.</option>
+					<option value="2">b) Não estouro com facilidade, MAS NÃO ME CUTUCA !</option>
+					<option value="3">c) Sou de boas, as vezes fico nervoso mas sei me controlar.</option>
+					<option value="4">d) Sou super sossegado, de vez enquando saio do sério mas nem dá pra notar.</option>
+					<option value="5">e) Sou um verdadeiro Buda, muito tranquilo, nem lembro a última vez que fiquei sem paciência.</option>
 				</select><br>
 				7: <select name="p7">
-					<option value="1">Resposta a</option>
-					<option value="2">Resposta b</option>
-					<option value="3">Resposta c</option>
-					<option value="4">Resposta d</option>
-					<option value="5">Resposta e</option>
+					<option value="1">a) Se não for pra arrasar nem saio de casa.</option>
+					<option value="2">b) Não gosto de sair feio, mas também não sacrifico o conforto.</option>
+					<option value="3">c) Depende do dia, o meu nível de beleza varia bastante.</option>
+					<option value="4">d) Sou meio largado, mas sei me vestir para ocasiões específicas.</option>
+					<option value="5">e) Sou largado mesmo, e que se dane a opnião dos outros.</option>
 				</select><br>
 				8: <select name="p8">
-					<option value="1">Resposta a</option>
-					<option value="2">Resposta b</option>
+					<option value="1"></option>
+					<option value="2"></option>
 					<option value="3">Resposta c</option>
 					<option value="4">Resposta d</option>
 					<option value="5">Resposta e</option>

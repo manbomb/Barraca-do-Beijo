@@ -10,9 +10,12 @@
 ?>
 <center>
 	<form method="POST">
-		<input type="text" name="num" placeholder="Quantos Códigos..."><input type="submit" value="Gerar..."><br><a href="logout.php">Logout</a>
+		<br>
+		<input type="text" name="num" placeholder="Quantos Códigos..."><input type="submit" value="Gerar...">
+		<br><br>
+		<a href="logout.php">Logout</a> ||  
+		<a href="match.php">MATCH !</a>
 	</form>
-</center>
 <style>
 	input {
 		border: 1px solid black;
@@ -20,6 +23,18 @@
 		height: 5%;
 		padding-left: 5px;
 		border-radius: 5px;
+	}
+	a {
+		text-decoration: none;
+		color: #FF7777;
+	}
+	#resultados {
+		width: 40%;
+	}
+	td {
+		text-align: center;
+		padding: 10px;
+		border: 1px solid black;
 	}
 </style>
 <?php
@@ -35,8 +50,11 @@
 	}
 	if (isset($_POST['num'])) {
 		$num = $_POST['num'];
+		echo "<table id=\"resultados\">";
 		for ($i=0; $i < $num ; $i++) { 
-			echo gerar()."<br>";
+			echo "<tr><td>".gerar()."</td></tr>";
 		}
+		echo "</table>";
 	}
 ?>
+</center>
