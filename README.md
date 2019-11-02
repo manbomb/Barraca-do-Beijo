@@ -17,4 +17,4 @@ Esta aplicação serve para promover de maneira virtual a antiga brincadeira de 
 - [x] Criar sistema de geração e validação de códigos
 - [ ] Criar perguntas e respostas (*** que sejam interessantes do ponto de vista estatísticos, para que funcionem)
 - [x] Criar tela de cadastro de respostas 
-- [ ] Criar página de Match
+- [x] Criar página de Match
